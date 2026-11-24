@@ -13,7 +13,7 @@ wj1012@yonsei.ac.kr
 #
 Staggered Discontinuous Galerkin Methods 
 
-HyunSuk Lee
+Hyunsuk Lee
 hsleehenry@yonsei.ac.kr
 #
 Finite element methods for time-dependent PDEs, Neural network
