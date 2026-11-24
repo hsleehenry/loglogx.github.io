@@ -19,6 +19,6 @@ hsleehenry@yonsei.ac.kr
 Finite element methods for time-dependent PDEs, Neural network
 
 Yoonsoo Lee
-alvin5193@yonsei.ac.kr
+yoonsoolee@yonsei.ac.kr
 #
 Staggered Discontinuous Galerkin Methods, A posteriori error estimates and adpativity
