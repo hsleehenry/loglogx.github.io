@@ -16,7 +16,7 @@ Staggered Discontinuous Galerkin Methods
 HyunSuk Lee
 hsleehenry@yonsei.ac.kr
 #
-Finite element methods for time-dependent PDEs, Neural network 
+Finite element methods for time-dependent PDEs, Neural network, test
 
 Yoonsoo Lee
 alvin5193@yonsei.ac.kr
